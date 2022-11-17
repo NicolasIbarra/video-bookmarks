@@ -1,0 +1,4 @@
+1) Permitir crear bookmarks en cualquier página que tenga videos. Esto se podría realizar con una validación sobre el DOM y con el chequeo de tipo de elemento HTML (el cual debería 
+ser video).
+2) Además de indicar el tiempo, también debería indicar la URL de la página, y en caso de que la pestaña esté cerrada debería abrirla y dirigir al usuario al video.
+3) Debido al punto anterior, debería almacenar los pins hechos en todas las páginas, no sólo mostrarlos cuando se está dentro de una determinada página.
